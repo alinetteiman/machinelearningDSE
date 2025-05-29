@@ -1,4 +1,4 @@
-# 🍄 Mushroom Classification using Decision Trees and Random Forests
+# Mushroom Classification using Decision Trees and Random Forests
 
 This project implements custom Decision Tree and Random Forest classifiers from scratch to classify mushrooms as **edible** or **poisonous**. It uses both real-world (primary) and synthetic (secondary) datasets and evaluates models using multiple splitting criteria and visualizations.
 
